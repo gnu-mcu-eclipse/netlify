@@ -1,3 +1,3 @@
-/v4-neon-updates-experimental https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates-experimental
-/v4-neon-updates-test https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates-test
-/v4-neon-updates https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates
+/v4-neon-updates-experimental/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates-experimental
+/v4-neon-updates-test/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates-test
+/v4-neon-updates/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates
