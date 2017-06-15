@@ -1,11 +1,5 @@
-/v4-neon-updates-experimental/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates-experimental
-/v4-neon-updates-experimental/plugins/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates-experimental/plugins
-/v4-neon-updates-experimental/features/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates-experimental/features
+/v4-neon-updates-experimental/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates-experimental/:splat
 
-/v4-neon-updates-test/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates-test
-/v4-neon-updates-test/plugins/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates-test/plugins
-/v4-neon-updates-test/features/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates-test/features
+/v4-neon-updates-test/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates-test/:splat
 
-/v4-neon-updates/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates
-/v4-neon-updates/plugins/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates/plugins
-/v4-neon-updates/features/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates/features
+/v4-neon-updates/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates/:splat
