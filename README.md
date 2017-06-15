@@ -1,4 +1,4 @@
-## netlify to bintray redirector
+## Netlify to Bintray redirector
 
 This project is a minimal web site hosted at [netlify.com](http://netlify.com) that provides http redirection to [bintray](https://bintray.com) for the Eclipse p2 updates sites.
 
