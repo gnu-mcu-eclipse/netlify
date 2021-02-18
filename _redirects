@@ -1,11 +1,5 @@
-/v4-neon-updates-experimental/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates-experimental/:splat
+/v4-neon-updates-experimental/* https://download.eclipse.org/embed-cdt/releases/4.7.2/p2/:splat
 
-/v4-neon-updates-test/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates-test/:splat
+/v4-neon-updates-test/* https://download.eclipse.org/embed-cdt/releases/4.7.2/p2/:splat
 
-/v4-neon-updates/* https://dl.bintray.com/gnu-mcu-eclipse/v4-neon-updates/:splat
-
-/riscv-v4-neon-updates-experimental/* https://dl.bintray.com/gnu-riscv-eclipse/v4-neon-updates-experimental/:splat
-
-/riscv-v4-neon-updates-test/* https://dl.bintray.com/gnu-riscv-eclipse/v4-neon-updates-test/:splat
-
-/riscv-v4-neon-updates/* https://dl.bintray.com/gnu-riscv-eclipse/v4-neon-updates/:splat
+/v4-neon-updates/* https://download.eclipse.org/embed-cdt/releases/4.7.2/p2/:splat
